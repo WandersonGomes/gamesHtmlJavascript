@@ -1,3 +1,8 @@
+/*
+Game criado seguindo o tutorial do seguinte canal no youtube:
+https://www.youtube.com/watch?v=9TcU2C1AACw
+*/
+
 const cvs = document.getElementById('canvas');
 const ctx = cvs.getContext('2d');
 
